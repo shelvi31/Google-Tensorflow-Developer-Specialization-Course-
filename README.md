@@ -6,7 +6,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - A primer in machine learning
 - The “Hello World” of neural networks
 - Working through “Hello World” in TensorFlow and Python
-- Week 1 : 
+-  Week 1- Predicting House Prices.ipynb
 
 **Week 2: Introduction to Computer Vision**
 - A conversation with Andrew Ng
@@ -16,9 +16,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Walk through a notebook for computer vision
 - Using callbacks to control training
 - Walk through a notebook with callbacks
-- Week 2 - x
-
-
+- Week 2- CV Classify Fashion MNIST using MLP.ipynb
 
 **Week 3: Enhancing Vision with Convolutional Neural Networks**
 - A conversation with Andrew Ng
@@ -27,7 +25,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Implementing pooling layers
 - Improving the fashion classifier with convolutions
 - Walking through convolutions
-- Week 3 - x
+- Week 3- Classifying Fashion MNIST using CNN Pooling
 
 
 **Week 4: Using Real-World Images**
@@ -40,7 +38,9 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Adding automatic validation to test accuracy
 - Exploring the impact of compressing images
 - Outro: Conversation with Andrew
-- Week 4 - x
+- Week 4- Classifying Horse Human- Convolution on Generated Images
+- Week 4- Classyfying Emotions using CNN
+- Week 4- Playing with Convolution Image Filters
 
 
 **Course 2: Convolutional Neural Networks in TensorFlow**
