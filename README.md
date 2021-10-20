@@ -27,7 +27,6 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Walking through convolutions
 - Week 3- Classifying Fashion MNIST using CNN Pooling
 
-
 **Week 4: Using Real-World Images**
 - A conversation with Andrew Ng
 - Understanding ImageGenerator
@@ -41,6 +40,7 @@ This first course introduces you to Tensor Flow, a popular machine learning fram
 - Week 4- Classifying Horse Human- Convolution on Generated Images
 - Week 4- Classyfying Emotions using CNN
 - Week 4- Playing with Convolution Image Filters
+
 
 
 
@@ -81,6 +81,7 @@ This second course teaches you advanced techniques to improve the computer visio
 - Week 4 - Classifying images of sign languages.ipynb
 
 
+
 **Course 3: Natural Language Processing in TensorFlow**
 In this third course, you’ll learn how to apply neural networks to solve natural language processing problems using TensorFlow. You’ll learn how to process and represent text through tokenization so that it’s recognizable by a neural network. You’ll be introduced to new types of neural networks, including RNNs, GRUs and LSTMs, and how you can train them to understand the meaning of text. Finally, you’ll learn how to train LSTMs on existing text to create original poetry and more!
 
@@ -108,7 +109,6 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Week 2.1 - Classifying IMDB reviews data (Embedding + MLP).ipynb
 - Week 2.2 - Classifying BBC news into topics (Embedding + Conv + MLP).ipynb
 
-
 **Week 3: Sequence Models**
 - A conversation with Andrew Ng
 - LSTMs
@@ -131,57 +131,55 @@ In this third course, you’ll learn how to apply neural networks to solve natur
 - Week 4 - Poem generation with Bi-directional LSTM.ipynb
 
 
+
 **Course 4: Sequences, Time Series, and Prediction**
 In this fourth course, you will learn how to solve time series and forecasting problems in TensorFlow. You’ll first implement best practices to prepare data for time series learning. You’ll also explore how RNNs and ConvNets can be used for predictions. Finally, you’ll apply everything you’ve learned throughout the Specialization to build a sunspot prediction model using real-world data!
 
 **Week 1: Sequences and Prediction**
-Introduction: a conversation with Andrew Ng
-Time series examples
-Machine learning applied to time series
-Common patterns in time series
-Introduction to time series
-Train, validation, and test sets
-Metrics for evaluating performance
-Moving average and differencing
-Trailing versus centered windows
-Forecasting
-Week 1 - Create and predict synthetic data with time series decomposition.ipynb
-
+- Introduction: a conversation with Andrew Ng
+- Time series examples
+- Machine learning applied to time series
+- Common patterns in time series
+- Introduction to time series
+- Train, validation, and test sets
+- Metrics for evaluating performance
+- Moving average and differencing
+- Trailing versus centered windows
+- Forecasting
+- Week 1 - Create and predict synthetic data with time series decomposition.ipynb
 
 **Week 2: Deep Neural Networks for Time Series**
-A conversation with Andrew Ng
-Preparing features and labels
-Feeding a windowed dataset into a neural network
-Single layer neural network
-Machine learning on time windows
-Prediction
-More on single-layer network
-Deep neural network training, tuning, and prediction
-Week 2.1 - Prepare features and labels.ipynb
-Week 2.2 - Predict synthetic data with Linear Regression.ipynb
-Week 2.3 - Predict synthetic data with MLP.ipynb
-
+- A conversation with Andrew Ng
+- Preparing features and labels
+- Feeding a windowed dataset into a neural network
+- Single layer neural network
+- Machine learning on time windows
+- Prediction
+- More on single-layer network
+- Deep neural network training, tuning, and prediction
+- Week 2.1 - Prepare features and labels.ipynb
+- Week 2.2 - Predict synthetic data with Linear Regression.ipynb
+- Week 2.3 - Predict synthetic data with MLP.ipynb
 
 **Week 3: Recurrent Neural Networks for Time Series**
-A conversation with Andrew Ng
-Shape of the inputs to the RNN
-Outputting a sequence
-Lambda layers
-Adjusting the learning rate dynamically
-RNNs
-LSTMs
-Coding LSTMs
-More on LSTMs
-Week 3.1 - Finding an optimal learning rate for a RNN.ipynb
-Week 3.2 - LSTM.ipynb
-
+- A conversation with Andrew Ng
+- Shape of the inputs to the RNN
+- Outputting a sequence
+- Lambda layers
+- Adjusting the learning rate dynamically
+- RNNs
+- LSTMs
+- Coding LSTMs
+- More on LSTMs
+- Week 3.1 - Finding an optimal learning rate for a RNN.ipynb
+- Week 3.2 - LSTM.ipynb
 
 **Week 4: Real-world Time Series Data**
-A conversation with Andrew Ng
-Convolutions
-Bi-directional LSTMs
-Real data – sunspots
-Train and tune the model
-Prediction
-Sunspots
-Combining our tools for analysis
+- A conversation with Andrew Ng
+- Convolutions
+- Bi-directional LSTMs
+- Real data – sunspots
+- Train and tune the model
+- Prediction
+- Sunspots
+- Combining our tools for analysis
